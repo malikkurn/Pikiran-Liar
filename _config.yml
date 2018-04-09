@@ -1,6 +1,5 @@
 locale: "en-US"
 title: Pikiran Liar Blog
-url: "https://malikkurn.github.io"
 baseurl: "/Pikiran-Liar/" #"/Pikiran-Liar" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
