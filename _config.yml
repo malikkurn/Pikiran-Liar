@@ -1,10 +1,11 @@
 locale: "en-US"
 title: Pikiran Liar Blog
-baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://malikkurn.github.io"
+baseurl: "/Pikiran-Liar/" #"/Pikiran-Liar" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: 
+description:
   Merupakan sebuah blog dimana pemikiran penulis tertuang secara abstrak.
 
 # Author details for the jekyll-seo-tag gem
