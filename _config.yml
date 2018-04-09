@@ -1,6 +1,6 @@
 locale: "en-US"
 title: Pikiran Liar Blog
-baseurl: "/Pikiran-Liar" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
