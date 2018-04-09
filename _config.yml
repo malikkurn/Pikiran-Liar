@@ -1,6 +1,6 @@
 locale: "en-US"
 title: Pikiran Liar Blog
-baseurl: /Pikiran-Liar/ 
+baseurl: "/Pikiran-Liar/"
 google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
